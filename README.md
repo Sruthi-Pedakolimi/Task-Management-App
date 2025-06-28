@@ -29,10 +29,10 @@ This is a simple and responsive **To-Do List** web application built using **HTM
 
 ---
 
-## 🌐 Live Demo (optional)
+## 🌐 Live Demo
 
-If hosted via GitHub Pages:  
-👉 [View Live](srptodoapp.ccbp.tech)
+👉 [View Live](https://srptodoapp.ccbp.tech)
+
 
 ---
 
