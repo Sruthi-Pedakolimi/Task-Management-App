@@ -1,6 +1,6 @@
-# 📝 To-Do List Web App
+# 📝 Task Management App
 
-This is a simple and responsive **To-Do List** web application built using **HTML**, **CSS (Bootstrap)**, and **Vanilla JavaScript**. It allows users to:
+This is a simple and responsive **Task Management** web application built using **HTML**, **CSS (Bootstrap)**, and **Vanilla JavaScript**. It allows users to:
 
 - ✅ Add new tasks
 - ✏️ Mark tasks as completed
